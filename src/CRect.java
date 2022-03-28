@@ -4,7 +4,7 @@ import lombok.Data;
     private int height;
     private int width;
 
-
+//lubie placki
     public CRect() {
         this.height = 0;
         this.width = 0;
